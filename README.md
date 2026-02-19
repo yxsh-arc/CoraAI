@@ -48,14 +48,14 @@ python CoraAI.py
 ## 💬 Example Interaction
 
 ```
-You: hi
-CoraAI: Hey! Kaise ho? 😄
+**You:** hi
+**CoraAI:** Hey! Kaise ho? 😄
 
-You: sad
-CoraAI: Chinta mat karo me huna 💙🌷
+**You:** sad
+**CoraAI:** Chinta mat karo me huna 💙🌷
 
-You: bye
-AI: Bye bye 👋
+**You:** bye
+**AI:** Bye bye 👋
 ```
 
 ---
