@@ -1,4 +1,4 @@
-# CoraAI 🤖
+## CoraAI 🤖
 
 CoraAI is a beginner-friendly rule-based chatbot built using Python.
 
@@ -17,14 +17,14 @@ This project demonstrates how simple keyword matching and random response select
 
 ## 🛠️ Tech Stack
 
-- Python 3
+- Python 
 - Built-in `random` module
 
 ---
 
 ## ▶️ How to Run
 
-1. Make sure Python 3 is installed.
+1. Make sure Python is installed.
 2. Clone the repository:
 
 ```bash
