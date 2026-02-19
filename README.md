@@ -48,7 +48,8 @@ python CoraAI.py
 ## 💬 Example Interaction
 
 ```
-**You:**  hi
+
+**You:** hi
 **CoraAI:** Hey! Kaise ho? 😄
 
 **You:** sad
@@ -56,6 +57,7 @@ python CoraAI.py
 
 **You:** bye
 **AI:** Bye bye 👋
+
 ```
 
 ---
