@@ -1,11 +1,11 @@
 ## Table Of Content
 
-- [CoraAI](#coraai)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [How to Run](#how-to-run)
-- [Example Interaction](#example-interaction)
-- [Future Improvements](#future-improvements)
+- [CoraAI](#-coraai)
+- [Features](#-features)
+- [Tech Stack](#-tech-stack)
+- [How to Run](#-how-to-run)
+- [Example Interaction](#-example-interaction)
+- [Future Improvements](#-future-improvements)
 - [License](#-license)
 
 
