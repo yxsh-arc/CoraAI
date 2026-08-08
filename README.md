@@ -6,7 +6,7 @@
 - [How to Run](#how-to-run)
 - [Example Interaction](#example-interaction)
 - [Future Improvements](#future-improvements)
-- [License](#license)
+- [License](#-license)
 
 
 ## CoraAI 🤖
