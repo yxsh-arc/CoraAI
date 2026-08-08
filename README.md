@@ -1,5 +1,5 @@
 ## Table Of Content
-[What is CoraAI?](# CoraAI)
+[CoraAI](#CoraAI)
 
 
 ## CoraAI 🤖
