@@ -1,3 +1,7 @@
+##Table Of Content
+[What is CoraAI?](## CoraAI)
+
+
 ## CoraAI 🤖
 
 CoraAI is a beginner-friendly rule-based chatbot built using Python.
