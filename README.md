@@ -1,4 +1,4 @@
-## Table Of Content
+## Table of Contents
 
 - [CoraAI](#-coraai)
 - [Features](#-features)
